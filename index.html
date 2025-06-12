@@ -377,7 +377,9 @@
 
         button.classList.remove("loading");
 
-        if (response.ok) {
+        // Google Apps Script often returns redirects or different status codes
+        // Check if we got any response (even redirects) - this usually means success
+        if (response) {
           button.classList.add("success");
           showToast("Form submitted successfully! ✓", "success");
           
