@@ -146,10 +146,6 @@ MIT License — Use freely for personal & commercial projects.
 
 ---
 
-<p align="center"><b>⭐ Star this repo if you found it helpful!</b></p>
-
----
-
 ## 📬 Connect with Me
 - 🌐 [Portfolio Website](https://adityagarwal.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/adityagarwal15)
