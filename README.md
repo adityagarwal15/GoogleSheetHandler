@@ -1,4 +1,6 @@
-# 📝 Google Sheets Form
+### Netlify
+1. Drag and drop your HTML file to Netlify
+2. Get instant deployment with custom domain options# 📝 Google Sheets Form
 
 > A beautiful, modern contact form that automatically submits data to Google Sheets. Built with vanilla HTML, CSS, and JavaScript featuring a sleek dark design with glassmorphism effects.
 
@@ -39,7 +41,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](https://adityagarwal15.github.io/GoogleSheetHandler)** 
+👉 **[View Live Demo](https://google-sheet-handler.vercel.app/)** 🔥 
 
 ### Form Fields:
 - ✅ **Name** (required)
@@ -184,13 +186,10 @@ catch (error) {
 2. Enable GitHub Pages in repository settings
 3. Your form will be available at `https://adityagarwal15.github.io/GoogleSheetHandler`
 
-### Netlify
-1. Drag and drop your HTML file to Netlify
-2. Get instant deployment with custom domain options
-
-### Vercel
+### Vercel ⭐ (Currently Used)
 1. Connect your GitHub repository to Vercel
 2. Automatic deployments on every push
+3. **Live at**: https://google-sheet-handler.vercel.app/
 
 ## 💡 About
 
